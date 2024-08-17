@@ -1,4 +1,4 @@
-![App Screenshot](https://via.placeholder.com/468x200?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/1920x200?text=App+Screenshot+Here)
 
 # mi-portfolio-react
 
