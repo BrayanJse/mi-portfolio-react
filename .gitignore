@@ -1,2 +1,7 @@
 /node_modules
 /old_backup
+
+# src
+/src/App.css
+/src/App.jsx
+/src/index.css
