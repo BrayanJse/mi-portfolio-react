@@ -1,4 +1,5 @@
-![App Screenshot](https://via.placeholder.com/1920x200?text=App+Screenshot+Here)
+
+![App Screenshot](https://via.placeholder.com/468x200?text=App+Screenshot+Here)
 
 # mi-portfolio-react
 
@@ -8,5 +9,16 @@ mi-portfolio-react creado para práctica a nivel personal para poder refrescar c
 Puedes conectar conmigo en las siguientes plataformas:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-vicente-11a690293/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanjse&layout=compact)
+
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanjse&show_icons=true&theme=transparent) -->
+
+<!-- 
+    DE ACÁ SAQUE LA INFORMACIÓN PARA LAS STATS
+https://github.com/anuraghazra/github-readme-stats 
+-->
+
 
 #### Creado el 17 de agosto, 2024.
