@@ -1,0 +1,32 @@
+.page-home {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.page-home__container {
+  width: 100%;
+  height: 300px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  overflow: hidden;
+
+  text-align: center;
+  background: #444;
+}
+
+.page-home__description__title {
+  color: #fff;
+}
+.page-home__description__text {
+  color: #ccc;
+}
+
+.page-projects__header {
+  margin-bottom: 20px;
+}
+.page-projects__header__title {
+  color: #fff;
+}

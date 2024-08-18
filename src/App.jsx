@@ -31,7 +31,7 @@ const App = () => {
   return (
     <Router>
       <Header />
-      {/* <div className=""> */}
+      <div className='asdsa conta'>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -40,7 +40,7 @@ const App = () => {
           <Route path="/podcasts" element={<Podcasts />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
-      {/* </div> */}
+      </div>
       <Footer />
     </Router>
   );
